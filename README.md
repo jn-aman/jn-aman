@@ -21,6 +21,8 @@ I am a fullstack software engineer from India
 <img align="left" alt="medium" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/mongo-%23316192.svg?&style=for-the-badge&logo=mongo&logoColor=white" />
 
+<br>
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [18 JavaScript cool and useful tips and tricks you must know in 2021](https://medium.com/@jn-aman/18-javascript-cool-and-useful-tips-and-tricks-you-must-know-in-2021-5c2a043f327d?source=rss-ea74297c1ece------2)
