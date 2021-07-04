@@ -12,6 +12,7 @@ I am a fullstack software engineer from India
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/aman4sure)
 
 <br>
+<br>
 
 ## Expertise
 
@@ -21,6 +22,7 @@ I am a fullstack software engineer from India
 <img align="left" alt="medium" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/mongo-%23316192.svg?&style=for-the-badge&logo=mongo&logoColor=white" />
 
+<br>
 <br>
 
 ## Blog posts
