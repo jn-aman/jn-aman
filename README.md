@@ -21,5 +21,10 @@ I am a fullstack software engineer from India
 <img align="left" alt="medium" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/mongo-%23316192.svg?&style=for-the-badge&logo=mongo&logoColor=white" />
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
+
 <br>
 <br>
