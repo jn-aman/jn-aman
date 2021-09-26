@@ -25,6 +25,7 @@ I am a fullstack software engineer from India
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSH Setup for GitHub/GitLab/BitBucket](https://medium.com/@jn-aman/ssh-setup-for-github-gitlab-bitbucket-a02a79de535a?source=rss-ea74297c1ece------2)
 - [How was I introduced to the world of IPv6?](https://medium.com/@jn-aman/how-was-i-introduced-to-the-world-of-ipv6-8086bee9b3d2?source=rss-ea74297c1ece------2)
 - [18 JavaScript cool and useful tips and tricks you must know in 2021](https://medium.com/@jn-aman/18-javascript-cool-and-useful-tips-and-tricks-you-must-know-in-2021-5c2a043f327d?source=rss-ea74297c1ece------2)
 <!-- BLOG-POST-LIST:END -->
