@@ -96,12 +96,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jn-aman&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jn-aman&show_icons=true&include_all_commits=true&hide_border=true&theme=default&bg_color=00000000" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jn-aman&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jn-aman&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=default&bg_color=00000000" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jn-aman&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jn-aman&layout=compact&langs_count=8&hide_border=true&theme=default&bg_color=00000000" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jn-aman&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&hide_border=true&theme=tokyonight&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jn-aman&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&hide_border=true&theme=default&bg_color=00000000" alt="Top languages" />
   </picture>
 </p>
 
@@ -123,9 +123,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right"><a href="https://blog.aman.wiki">More posts →</a></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jn-aman&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile views" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6d28d9,100:312e81&height=110&section=footer" width="100%" alt="" />
